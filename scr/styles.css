@@ -1,0 +1,9 @@
+h1 {
+  color: rgb(45, 18, 194);
+  font-style: 2rem;
+  font-weight: bold;
+}
+
+.app {
+  display: block;
+}
